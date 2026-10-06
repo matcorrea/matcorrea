@@ -15,7 +15,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- Self-taught developer passionate about building solutions.
+- Computer Science graduated developer passionate about building solutions.
 - Friendly team player who values collaboration and clear communication.
 - Focused on delivering robust, reliable software.
 
