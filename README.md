@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/matcorrea/)
-- [GitHub](https://github.com/th3colosso)
+- [GitHub](https://github.com/matcorrea)
 
 ---
 
